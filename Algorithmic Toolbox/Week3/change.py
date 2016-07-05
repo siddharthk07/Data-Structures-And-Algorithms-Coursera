@@ -8,7 +8,7 @@ def get_change(n):
             n -= 10
             change += 1
         elif (n > 3):
-            n -= 10
+            n -= 3
             change += 1
         else:
             n -= 1
